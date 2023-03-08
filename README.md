@@ -1,2 +1,2 @@
-# sales_dashboard_excel
+# Sales Dashboard in Excel
 Created Sales Dashboard in Microsoft Excel
