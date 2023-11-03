@@ -1,7 +1,9 @@
 # Sales Dashboard in Excel
-Created Sales Dashboard in Microsoft Excel.
 
 ![](Excel-Recorded_gif.gif)
+
+
+Created Sales Dashboard in Microsoft Excel.
 
 <ul>
 <li>The Sales dashboard is an interactive data visualization tool created in Microsoft Excel that provides an overview of sales performance. </li>
