@@ -1,6 +1,8 @@
 # Sales Dashboard in Excel
 Created Sales Dashboard in Microsoft Excel.
 
+![](Excel-Recorded_gif.gif)
+
 <ul>
 <li>The Sales dashboard is an interactive data visualization tool created in Microsoft Excel that provides an overview of sales performance. </li>
 
@@ -12,7 +14,5 @@ Created Sales Dashboard in Microsoft Excel.
 <ul>
 
 <br>
-
-![](Excel-Recorded_gif.gif)
 
 This Dashboard should run properly on excel version > 2021 and excel 365.
