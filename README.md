@@ -13,8 +13,9 @@ Created Sales Dashboard in Microsoft Excel.
 <li> Users can filter the data by date range, sales type and payment mode to gain deeper insights into sales trends and identify areas for improvement. </li>
 
 <li> This Sales dashboard is a useful tool for sales managers and executives who need to make data-driven decisions to improve their company's bottom line. </li>
-<ul>
+</ul>
 
 <br>
+
 
 This Dashboard should run properly on excel version > 2021 and excel 365.
